@@ -1,27 +1,27 @@
-# BadDrop
+# LDrop
 Start now
 
 End [block 6000000](https://www.mintscan.io/neutron/block/6000000)
 
 [Bad Contract is controlled by no one.](https://www.mintscan.io/neutron/tx/0254216FC80CC280801C7C0F776DBB57D53B88F832ABADBDFE86886174FC24C5?height=5419089)
 
-[$Bad  is controlled by no one.](https://www.mintscan.io/neutron/tx/A16F7F10DDD3BB0DF73EA6BBB0FE2FC45B3E3606AA86E21E089826ED3722BF69?height=5418917)
+[$L  is controlled by no one.](https://www.mintscan.io/neutron/tx/A16F7F10DDD3BB0DF73EA6BBB0FE2FC45B3E3606AA86E21E089826ED3722BF69?height=5418917)
 
-The only way to create $BAD is to claim your BadDrop.
+The only way to create $L is to claim your LDrop.
 
-All unclaimed $BAD will be locked in Bad Contract forever
-
-
+All unclaimed $L will be locked in L Contract forever
 
 
-# What is $Bad?
+
+
+# What is $L?
 useless meme coins, no roadmap, no team. Controlled by no one.
 
 Fully distributed to @badkidsart and @bitkidsart holders.
 
 Not affiliated with @badkidsart.
 
-# Tokenomic of $BAD  
+# Tokenomic of $L  
 
 Useless meme coins
 
@@ -31,21 +31,21 @@ Per Badkids nft is eligible for 1,000,000 $BAD
 
 Per Bitkids nft is eligible for 100,000 $BAD
 
-Genesis total supply is all in Bad Contract. And it can't be minted more.
+Genesis total supply is all in L Contract. And it can't be minted more.
 
-The only way to create $BAD in circulation is to claim your BadDrop.
+The only way to create $L in circulation is to claim your LDrop.
 
-All unclaimed $BAD will be locked in Bad Contract forever.
+All unclaimed $L will be locked in L Contract forever.
 
 
-# What is Bad Contract?
-Fork from https://github.com/CosmWasm/cw-tokens/tree/main/contracts/cw20-merkle-airdrop.
+# What is L Contract?
+Fork from https://github.com/xBadcoin/BadCoin
 
 Contract on neutron : neutron1y6s52fuhnqtank3wjfgrkcvcp3t3anw6yj72jtk5alufy6ldwrxsa9nzkj.
 
 Controlled by no one.
 
-# How to claim BadDrop?
+# How to claim LDrop?
 # If you are badkids
 # 1.
 go to https://raw.githubusercontent.com/xBadcoin/BadCoin/main/ProofOfBad.json
